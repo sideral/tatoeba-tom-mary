@@ -1,2 +1,2 @@
-# Replace Tom & Mary in Tatoeba for other names
+# Replace Tom & Mary in Tatoeba dataset
 
